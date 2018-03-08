@@ -1,0 +1,148 @@
+{
+ "name": "Categories",
+ "children": [
+  {
+   "name": "Category1",
+   "children": [
+    {
+     "name": "A",
+     "children": [
+         {
+     "name": "Values",
+     "children": [
+      {"name": "1378", "size": 3938 , "type": "one"},
+      {"name": "1527", "size": 3812 , "type": "two"},
+      {"name": "3512", "size": 6714 , "type": "three"},
+      {"name": "4857", "size": 743 , "type": "four"},
+	  {"name": "2946", "size": 6714 , "type": "five"},
+	  {"name": "4574", "size": 6714 , "type": "six"},
+	  {"name": "1713", "size": 6714 , "type": "seven"},
+	  {"name": "1645", "size": 6714 , "type": "eight"},
+	  {"name": "1917", "size": 6714 , "type": "nine"},
+	  {"name": "1694", "size": 6714 , "type": "ten"},
+	  {"name": "3414", "size": 6714 , "type": "eleven"},
+	  {"name": "1690", "size": 6714 , "type": "twelve"},
+	  {"name": "2265", "size": 6714 , "type": "thirteen"},
+	  {"name": "3899", "size": 6714 , "type": "fourteen"},
+	  {"name": "3935", "size": 6714 , "type": "fifteen"},
+	  {"name": "3641", "size": 6714 , "type": "sixteen"},
+	  {"name": "2381", "size": 6714 , "type": "seventeen"},
+	  {"name": "3582", "size": 6714 , "type": "eighteen"}
+     ]
+    }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Category2",
+   "children": [
+    {
+     "name": "B",
+     "children": [
+      {
+	  "name": "Values",
+	  "children": [
+{"name": "1378", "size": 3938 , "type": "one"},
+      {"name": "1527", "size": 3812 , "type": "two"},
+      {"name": "3512", "size": 6714 , "type": "three"},
+      {"name": "4857", "size": 743 , "type": "four"},
+	  {"name": "2946", "size": 6714 , "type": "five"},
+	  {"name": "4574", "size": 6714 , "type": "six"},
+	  {"name": "1713", "size": 6714 , "type": "seven"},
+	  {"name": "1645", "size": 6714 , "type": "eight"},
+	  {"name": "1917", "size": 6714 , "type": "nine"},
+	  {"name": "1694", "size": 6714 , "type": "ten"},
+	  {"name": "3414", "size": 6714 , "type": "eleven"}
+	  
+     ]
+	 }
+	 ]
+    },
+	    {
+     "name": "C",
+     "children": [
+      {
+	  "name": "Values",
+	  "children": [
+{"name": "1690", "size": 6714 , "type": "twelve"},
+	  {"name": "2265", "size": 6714 , "type": "thirteen"},
+	  {"name": "3899", "size": 6714 , "type": "fourteen"},
+	  {"name": "3935", "size": 6714 , "type": "fifteen"},
+	  {"name": "3641", "size": 6714 , "type": "sixteen"},
+	  {"name": "2381", "size": 6714 , "type": "seventeen"},
+	  {"name": "3582", "size": 6714 , "type": "eighteen"}
+	  
+     ]
+	 }
+	 ]
+    }
+	
+   ]
+  },
+    {
+   "name": "Category3",
+   "children": [
+    {
+     "name": "D",
+     "children": [
+         {
+     "name": "Values",
+     "children": [
+      {"name": "1378", "size": 3938 , "type": "one"},
+      {"name": "1527", "size": 3812 , "type": "two"},
+      {"name": "3512", "size": 6714 , "type": "three"}
+     ]
+    }
+     ]
+    },
+	{
+     "name": "E",
+     "children": [
+         {
+     "name": "Values",
+     "children": [
+      {"name": "4857", "size": 743 , "type": "four"},
+	  {"name": "2946", "size": 6714 , "type": "five"},
+	  {"name": "4574", "size": 6714 , "type": "six"},
+	  {"name": "1713", "size": 6714 , "type": "seven"}
+     ]
+    }
+     ]
+    },
+		{
+     "name": "F",
+     "children": [
+         {
+     "name": "Values",
+     "children": [
+	  {"name": "1645", "size": 6714 , "type": "eight"},
+	  {"name": "1917", "size": 6714 , "type": "nine"},
+	  {"name": "1694", "size": 6714 , "type": "ten"},     
+	  {"name": "3414", "size": 6714 , "type": "eleven"}
+     ]
+    }
+     ]
+    },
+		{
+     "name": "G",
+     "children": [
+         {
+     "name": "Values",
+     "children": [
+	  {"name": "1690", "size": 6714 , "type": "twelve"},
+	  {"name": "2265", "size": 6714 , "type": "thirteen"},
+	  {"name": "3899", "size": 6714 , "type": "fourteen"},
+	  {"name": "3935", "size": 6714 , "type": "fifteen"},
+	  {"name": "3641", "size": 6714 , "type": "sixteen"},
+	  {"name": "2381", "size": 6714 , "type": "seventeen"},
+	  {"name": "3582", "size": 6714 , "type": "eighteen"}
+     ]
+    }
+     ]
+    }
+   ]
+  }
+  
+ ]
+}
